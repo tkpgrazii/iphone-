@@ -1,5 +1,40 @@
 
+<!DOCTYPE html >
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8"
+        <title>Loja da carros da duda</title>
+        <link rel="stylesheet" href="style.css">                                                                                                                                            
+    </head>
 
+    <body>
+        <header>
+            <h1 class="titulo-principal">Loja de carros da duda</h1>
+        </header>
+        <img "id=banner" src="images.jpeg">
+        <div class="principal">    
+        <h2 class="titulo-centralizado">Sobre a loja de carros da duda</h2>
+    
+        <p><strong>Loja de carros da duda,</strong> é uma loja de carros, construída e planejada com estilo americano, você encontra as melhores ofertas do carro Carros, motos e caminhões. Em nosso catálogo está disponível modelos de carros novos e usados com as melhores condições..</p>
+ 
+    <p id="missão"><em>Nossa missão é:<footer class="footer width-full container-xl p-responsive">…</footer>
+    <strong> "Proporcionar uma extrema satisfação ao cliente"</strong>.</em></p>
+   </div>
+        
+   <div class="benefícios">
+        <h3 ="titulo-centralizado">benefícios</h3>
+        
+        <ul>
+            <li class="itens">Atendimento aos clientes</li>
+            <li class="itens">Espaço diferenciado</li>
+            <li class="itens">localização</li>
+            <li class="itens">Profissionais Qualificados</li>
+         </ul>
+          
+       <img src="download.jpeg" class=imagembenefícios>
+      </div>
+   </body>
+</html>
 
 
 
