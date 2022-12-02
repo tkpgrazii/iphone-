@@ -1,0 +1,42 @@
+body { 
+   
+}      
+
+#images.jpeg {
+    
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+p {
+   text-align: center;
+}
+
+#missão {
+    font-size: 20px
+}
+
+em strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic
+}
+
+.Benefícios {
+    background: #FFFFFF;
+    padding: 20%px;
+}
